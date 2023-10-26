@@ -33,7 +33,7 @@ Table                               |          Chart
 Technology products brought in the most money from 2014 to 2018, with a total of $836,154 in revenue.
 Table                               |          Chart
 :----------------------------------:|:----------------:
-![](segmen_tb.png)                  |     ![](category_chrt.png)
+![](salesby_produ_tb.png)                  |     ![](salesby_produ_chrt.png)
 
 ## What are the most popular shipping modes?
 Standard class shipping is the most popular shipping option, accounting for nearly 60% of all revenue from other shipping classes.
@@ -46,13 +46,13 @@ Table                               |          Chart
 The chart and table show that the West region generates the most revenue, followed by the East region
 Table                               |          Chart
 :----------------------------------:|:----------------:
-![](region_tb.png)                  |     ![](region_chrt.png)
+![](region_tb.png)                  |     ![](Revenue_region_chrt2.png)
 
 ## What are the top-selling products by region?
 Office supplies are the most popular products sold in all regions, with 6,026 sales records.
 Table                               |          Chart
 :----------------------------------:|:----------------:
-![](product_qu_tb.png)              |     ![](product_qu_chrt.png)
+![](product_qu_tb.png)              |     ![](topselling_pro_chrt.png)
 
 # Key Performance Indicator 
 
@@ -60,7 +60,7 @@ Table                               |          Chart
 California and New York are the top two states by revenue, generating the highest revenue of all 50 states.
 Table                               |          Chart
 :----------------------------------:|:----------------:
-![](Revenue_state_tb.png)           |     ![](Revenue_state_chrt.png)
+![](Revenue_state_tb.png)           |     ![](reven_state_chrt.png)
 
 ## What is the annual profit margin?
 The overall trend in profit margins appears to be positive from 2014 to 2017, with increasing percentages. However, the sharp drop in 2018 is a significant issue. It would be important to investigate the reasons behind this drop in profitability
@@ -78,5 +78,5 @@ Table                               |          Chart
 Table                               |          Chart
 :----------------------------------:|:----------------:
 ![](revenue_prdou_tb.png)           |     ![](revenue_prdou_chrt.png)
-
+## 
 
